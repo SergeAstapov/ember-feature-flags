@@ -1,3 +1,4 @@
+/*eslint-disable no-extra-boolean-cast, no-console */
 import Ember from 'ember';
 
 let { camelize } = Ember.String;

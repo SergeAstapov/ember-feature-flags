@@ -170,11 +170,12 @@ Note: for Ember before 2.3.0, you'll need to use [ember-getowner-polyfill](https
 
 #### Running
 
-* `ember server`
-* Visit your app at http://localhost:4200.
+* `ember serve`
+* Visit your app at [http://localhost:4200](http://localhost:4200).
 
 #### Running Tests
 
+* `npm test` (Runs `ember try:each` to test your addon against multiple Ember versions)
 * `ember test`
 * `ember test --server`
 
